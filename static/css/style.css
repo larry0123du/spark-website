@@ -127,11 +127,11 @@ a {
 }
 
 #about, #sponsor, #apply, #contact {
-	height: 100vh;
+	height: 85vh;
 	background-size: cover;
 	background-position: center top;
-	padding-top: 150px;
-	padding-bottom: 5px;
+	padding-top: 15vh;
+	/*padding-bottom: 0px;*/
 }
 
 #about {
@@ -152,8 +152,8 @@ a {
 	margin-right: auto;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	height: 85vh;
-	width: 85vh;
+	height: 75vh;
+	width: 85vw;
 	background-color: #ccc;
 	opacity: 0.6;
 	border-radius: 10px;
